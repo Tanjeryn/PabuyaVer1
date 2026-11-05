@@ -2,9 +2,6 @@
 import React, { useState } from 'react';
 import { Search, Map as MapIcon, SlidersHorizontal, ChevronLeft, CheckCircle2, Loader2, Check, AlertCircle, Image as ImageIcon, Lock } from 'lucide-react';
 
-// ==========================================
-// 1. MOCK DATABASE (Matches your Figma exactly)
-// ==========================================
 const CAMPAIGNS = [
   { 
     id: 1, 
